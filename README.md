@@ -1,4 +1,4 @@
 # apanacollegedemo
 This is my first git Repository
 <br>
-Author : Divya Patil
+Author : Divya Patil(Apana College)
